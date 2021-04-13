@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">walks2</string>
+    <string name="image_splashscreen">image_splashscreen</string>
+    <string name="logo1">LOGO1</string>
+    <string name="logo">LOGO</string>
+    <string name="walks">walks</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
